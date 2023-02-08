@@ -1,1 +1,5 @@
-
+name=Мотоки Терасаки
+image=motoki.bmp
+web=https://github.com/MotokiKuN/Utau-singer
+author=MotokiKuN
+version=1.0
